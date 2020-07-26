@@ -1,5 +1,5 @@
 # Overview
-This is my project on the Titanic (Kaggle Competition)[https://www.kaggle.com/c/titanic]. The aim is to use data about the people who were on the Titanic (e.g. age, family members, ticket fare, etc.) and make predictions about who survived and who didn't on unseen data. 
+This is my project on the Titanic [Kaggle Competition](https://www.kaggle.com/c/titanic). The aim is to use data about the people who were on the Titanic (e.g. age, family members, ticket fare, etc.) and make predictions about who survived and who didn't on unseen data. 
 
 
 ## Procedure
